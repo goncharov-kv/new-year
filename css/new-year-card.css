@@ -1,0 +1,14 @@
+
+
+
+
+
+.new-year-card {
+background-image: url(https://miro.medium.com/max/1600/1*u3tQ-8c5eB10GxVgPnuB-A.gif);
+font-family: 'Inria Serif', serif;
+font-family: 'Dancing Script', cursive;
+background-size: 47%;
+color: whitesmoke;
+box-shadow: 0 0 20px 3px red;
+text-shadow:  1px 1px 2px grey, 0 0 1em green;
+}
